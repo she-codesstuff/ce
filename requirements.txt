@@ -1,0 +1,21 @@
+# Core Data Libraries
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Data Preprocessing & Analysis
+scikit-learn
+
+# Optional: Statistical analysis
+scipy
+
+# File handling / Notebook
+jupyter
+notebook
+
+# Power BI integration (optional export tools)
+openpyxl
